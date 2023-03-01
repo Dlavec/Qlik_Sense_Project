@@ -20,7 +20,7 @@ Es decir que se obtiene una gran tabla maestra, que se logra a partir de operaci
 
 ### 2. Visualización
 
-Creación de hojas de análisis de Clintes, de Producto y de Tiendas.
+Creación de hojas de análisis interactivas de Clientes, de Producto y de Tiendas.
 Creación de un Dashboard.
 
 <div id="header" align="center">
