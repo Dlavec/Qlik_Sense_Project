@@ -18,7 +18,7 @@ Es decir que se obtiene una gran tabla maestra, que se logra a partir de operaci
   <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Modelo_Estrella.PNG" width="800px"/>
   </div>
 
-### 2. Visualización
+### 2. Análisis y Visualización de datos
 
 Creación de hojas de análisis interactivas de Clientes, de Producto y de Tiendas.
 Creación de un Dashboard.
