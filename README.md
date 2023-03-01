@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/gestion_de_ventas.PNG"/>
-  <h1 align="center">Que bueno verte aquí!
+  <h1 align="center">Que bueno verte!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
