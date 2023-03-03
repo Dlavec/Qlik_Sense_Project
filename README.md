@@ -24,11 +24,14 @@ Creación de hojas de análisis interactivas de Clientes, de Producto y de Tiend
 Creación de un Dashboard.
 
 <div id="header" align="center">
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/An%C3%A1lisis_Ventas_cliente.jpg" width="800px"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Clientes_1.PNG" width="800px"/>
   
-  <img src="" width="800px"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Clientes_2.PNG" width="800px"/>
   
-  <img src="" width="800px"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Productos_1.PNG" width="800px"/>
   
-  <img src="" width="800px"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Productos_2.PNG" width="800px"/>
+  
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Dashboard_1.PNG" width="800px"/>
+  
   </div>
