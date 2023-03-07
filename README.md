@@ -6,7 +6,7 @@
 </div>
 
 ## Qlik_Sense_Project
-En este repositorio comparto un proyecto en el cual trabajé sobre un caso empresarial de ventas para aprender data analysis.
+En este repositorio comparto un proyecto en el cual trabajé sobre un caso empresarial de ventas para aprender análisis de datos.
 
 ### 1. Back end
 
