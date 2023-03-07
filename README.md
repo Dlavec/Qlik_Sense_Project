@@ -15,7 +15,7 @@ Se persiguió un modelo de datos analiticos tipo estrella, donde la base de dato
 Es decir que se obtiene una gran tabla maestra, que se logra a partir de operaciones entre tablas.
 
 <div id="header" align="center">
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Modelo_estrella.PNG" width="900px"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Modelo_estrella.PNG"/>
   </div>
 
 ### 2. Análisis y Visualización de datos
@@ -25,20 +25,20 @@ Creación de un Dashboard.
 
 <div id="header" align="center">
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Vtas_1.PNG" width="900px"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Vtas_1.PNG"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Vtas_2.PNG" width="900px"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Vtas_2.PNG"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Prod_1.PNG" width="900px"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Prod_1.PNG"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Prod_2.PNG" width="900px"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Prod_2.PNG"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Tienda_1.PNG" width="900px"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Tienda_1.PNG"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Tienda_2.PNG" width="900px"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Tienda_2.PNG"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Dashboard_1.PNG" width="900px"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Dashboard_1.PNG"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Dashboard_2.PNG" width="900px"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Dashboard_2.PNG"/>
   
   </div>
