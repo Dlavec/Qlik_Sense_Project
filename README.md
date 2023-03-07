@@ -24,7 +24,6 @@ Creación de hojas de análisis interactivas de Clientes, de Producto y de Tiend
 Creación de un Dashboard.
 
 <div id="header" align="center">
-  <img src="" width="900px"/>
   
   <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Vtas_1.PNG" width="900px"/>
   
