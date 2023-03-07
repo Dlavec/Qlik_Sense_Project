@@ -32,8 +32,12 @@ Creación de un Dashboard.
   
   <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Productos_2.PNG" width="900px"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Dashboard_a.PNG" width="900px"/>
+  <img src=""/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Dashboard_b.PNG" width="900px"/>
+  <img src=""/>
+  
+  <img src=""/>
+  
+  <img src=""/>
   
   </div>
