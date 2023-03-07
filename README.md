@@ -15,7 +15,7 @@ Se persiguió un modelo de datos analiticos tipo estrella, donde la base de dato
 Es decir que se obtiene una gran tabla maestra, que se logra a partir de operaciones entre tablas.
 
 <div id="header" align="center">
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Modelo_estrella.PNG"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Modelo_estrella.PNG"   width="800px"/>
   </div>
 
 ### 2. Análisis y Visualización de datos
