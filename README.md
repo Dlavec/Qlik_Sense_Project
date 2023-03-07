@@ -25,9 +25,9 @@ Creación de un Dashboard.
 
 <div id="header" align="center">
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Vtas_1.PNG"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Clientes_1.PNG"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Vtas_2.PNG"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Clientes_2.PNG"/>
   
   <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Analisis_Prod_1.PNG"/>
   
