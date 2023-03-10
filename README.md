@@ -25,8 +25,8 @@ Es decir que se obtiene una gran tabla maestra conectada con sus dimensiones.
 
 ### 2. Análisis y Visualización de datos
 
-Creación de hojas de análisis interactivas de Clientes, Producto y Tiendas.
-Creación de un Dashboard.
+A partir de los QVDs obtenidos (transformados y no transformados) se crearon hojas de análisis interactivas de Clientes, Productos y Tiendas.
+Luego se resumió la información relevante en un Dashboard.
 
 <div id="header" align="center">
   
