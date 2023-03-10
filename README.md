@@ -10,9 +10,11 @@ En este repositorio comparto un proyecto en el cual trabajé sobre un caso empre
 
 ### 1. Back end
 
-Procesos de extracción y transformación trabajando con QVSs y QVDs.
-Se persiguió un modelo de datos analiticos tipo estrella, donde la base de datos se encuentra desnormalizada.
-Es decir que se obtiene una gran tabla maestra, que se logra a partir de operaciones entre tablas.
+Se trabajó con una metodología de aplicación de análisis de datos por capas:
+1-Procesos de extracción
+2-Procesos de transformación
+Se persiguió un modelo tipo estrella, donde la base de datos se encuentra desnormalizada.
+Es decir que se obtiene una gran tabla maestra conectada con sus dimensiones.
 
 <div id="header" align="center">
   <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Modelo_estrella.PNG"   width="800px"/>
@@ -20,7 +22,7 @@ Es decir que se obtiene una gran tabla maestra, que se logra a partir de operaci
 
 ### 2. Análisis y Visualización de datos
 
-Creación de hojas de análisis interactivas de Clientes, de Producto y de Tiendas.
+Creación de hojas de análisis interactivas de Clientes, Producto y Tiendas.
 Creación de un Dashboard.
 
 <div id="header" align="center">
