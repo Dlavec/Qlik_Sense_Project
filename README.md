@@ -11,8 +11,11 @@ En este repositorio comparto un proyecto en el cual trabajé sobre un caso empre
 ### 1. Back end
 
 Se trabajó con una metodología de aplicación de análisis de datos por capas:
+
 1-Procesos de extracción
+
 2-Procesos de transformación
+
 Se persiguió un modelo tipo estrella, donde la base de datos se encuentra desnormalizada.
 Es decir que se obtiene una gran tabla maestra conectada con sus dimensiones.
 
