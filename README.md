@@ -38,7 +38,7 @@ Luego se resumió la información relevante en un Dashboard.
   
   <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Analisis_Ventas_b.PNG"/>
   
-  <img src=""/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Analisis_Tienda_a.PNG"/>
   
   <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Analisis_Tiendas_b.PNG"/>
   
