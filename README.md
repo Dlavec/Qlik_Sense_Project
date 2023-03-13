@@ -12,9 +12,9 @@ En este repositorio comparto un proyecto en el cual trabajé sobre un caso empre
 
 Se trabajó con una metodología de aplicación de análisis de datos por capas:
 
-1-Procesos de extracción (QVDs de extracción)
+1-Procesos de extracción (QVDs y QVSs de extracción)
 
-2-Procesos de transformación (QVDs de transformación)
+2-Procesos de transformación (QVDs y QVSs de transformación)
 
 Se persiguió un modelo tipo estrella, donde la base de datos se encuentra desnormalizada.
 Es decir que se obtiene una gran tabla maestra conectada con sus dimensiones.
