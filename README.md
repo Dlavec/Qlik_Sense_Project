@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Aplicacion_sheets.PNG"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Gestion_de_ventas.PNG"/>
   <h1 align="center">Que bueno verte!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
@@ -34,20 +34,20 @@ Luego se resumió la información relevante en un Dashboard.
 
 <div id="header" align="center">
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Analisis_clientes_a.PNG"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Clientes_1.PNG"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Analisis_clientes_b.PNG"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Clientes_2.PNG"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Analisis_Ventas_a.PNG"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Productos_1.PNG"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Analisis_Ventas_b.PNG"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Productos_2.PNG"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Analisis_Tiendas_a.PNG"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Tiendas_1.PNG"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Analisis_Tiendas_b.PNG"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Tiendas_2.PNG"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Dashboard_a.PNG"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Dashboard_1.PNG"/>
   
-  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Dashboard_b.PNG"/>
+  <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Dashboard_2.PNG"/>
   
   </div>
