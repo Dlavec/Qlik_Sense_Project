@@ -51,3 +51,10 @@ Luego se resumió la información relevante en un Dashboard.
   <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Dashboard_2.PNG"/>
   
   </div>
+
+### Ejémplo Seleccion 
+Una gran funcionalidad de esta aplicación es que es interactiva! Permite al usuario explorar los datos de manera más profunda y personalizada. En lugar de simplemente presentar información estática, permiten seleccionar diferentes variables y parámetros, cambiar la escala de tiempo y ver diferentes perspectivas de los datos. Además, hacen que navegar sea más emocionante. Esto puede resultar en una mejor comprensión de los datos y en la identificación de patrones y tendencias que no serían evidentes en una presentación estática.
+
+<div id="header" align="center">
+  <img src=""/>
+  </div>
