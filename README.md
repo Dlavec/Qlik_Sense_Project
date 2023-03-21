@@ -21,7 +21,7 @@ Se trabajó con una metodología de aplicación de análisis de datos por capas:
 2-Procesos de transformación (QVDs y QVSs de transformación)
 
 Se persiguió un modelo tipo estrella, donde la base de datos se encuentra desnormalizada.
-Es decir que se obtiene una gran tabla maestra conectada con sus dimensiones.
+Es decir que se obtiene una gran tabla de hechos conectada con sus dimensiones.
 
 <div id="header" align="center">
   <img src="https://github.com/Dlavec/Qlik_Sense_Project/blob/main/Images/Modelo_estrella.PNG"   width="800px"/>
