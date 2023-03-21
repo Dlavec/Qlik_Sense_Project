@@ -8,7 +8,7 @@
 ## Qlik_Sense_Project
 En este repositorio comparto un proyecto en el cual trabajé sobre un caso empresarial de ventas. Esta herramienta es una verdadera joya que nos permite monitorear y analizar el rendimiento de ventas en tiempo real. 
 
-Con este dashboard, podremos visualizar nuestras ventas por mes o año, así como también su compación. También podremos monitorear las ventas por región, producto, cliente y tienda, lo que nos permitirá identificar oportunidades de crecimiento y optimización, asi como tambien tomar decisiones informadas en función de los datos.
+Con este dashboard, podremos visualizar nuestras ventas por mes o año, así como también su comparación. También podremos monitorear las ventas por región, producto, cliente y tienda, lo que nos permitirá identificar oportunidades de crecimiento y optimización, asi como tambien tomar decisiones informadas en función de los datos.
 
 ¿No les parece increíble? Esta herramienta revoluciona la manera en que tomamos decisiones y alcanzamos el éxito.
 
